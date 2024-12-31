@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1195432084/photo/poker-green-table-texture.jpg?s=612x612&w=0&k=20&c=PkMmv6qqedN8RJBIU0ko_iD7HzjvZfgr2T_GS95_V14=)
+}
+
+#player-hand{
+    font-size:100px;
+}
+
+#dealer-hand{
+font-size:100px;
+}
