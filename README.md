@@ -1,1 +1,1 @@
-The Blackjack card game, a JavaScript project.
+The Blackjack card game, a JavaScript web project.
